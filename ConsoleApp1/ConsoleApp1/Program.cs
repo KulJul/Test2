@@ -13,5 +13,10 @@ namespace ConsoleApp1
             int x2 = 0;
             int x3 = 0;
         }
+
+        string First()
+        {
+            return "One";
+        }
     }
 }
